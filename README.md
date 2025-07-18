@@ -44,8 +44,26 @@ It’s like if DOOM met Synthwave 💀🎧
 
 ## 🎮 How to play  
 ```bash
-Just open index2.html in your browser 🌐  
+Just open index.html in your browser 🌐  
 ````
+
+### 🧠 Option 1: Clone with Git
+```bash
+git clone https://github.com/Antot-12/NEON-DYSTOPIA.git
+cd NEON-DYSTOPIA
+````
+
+Then open the `index.html` file in your browser (double click or drag into browser). That's it! ✅
+
+### 💾 Option 2: Download ZIP
+
+1. Go to: [https://github.com/Antot-12/NEON-DYSTOPIA](https://github.com/Antot-12/NEON-DYSTOPIA)
+2. Click the green `Code` button 🟩
+3. Choose `Download ZIP`
+4. Unzip it
+5. Open `index2.html` — boom! 💥
+
+---
 
 Controls:
 
